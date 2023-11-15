@@ -1,0 +1,18 @@
+**Database Name: database**
+
+**Como Usar**
+
+-> Crie um banco de dados com o nome 'php_project,
+   ou crie um seu e altere a linha '$conn" no 
+   caminho 'trab/server/connection.php'
+
+-> Em seguida, clique no banco de dados criado, vá
+   na aba 'SQL' e importe a tabela 'database.sql'
+
+-> Ative o server e o banco no painel XAMPP e va para
+   'localhost/trab/index.php'
+
+** Developed by Caio
+
+
+
